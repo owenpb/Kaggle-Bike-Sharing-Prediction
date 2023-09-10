@@ -17,4 +17,4 @@ Since our task is to predict a numerical value (bike count) we employ a variety 
 **7. AdaBoost**<br>
 **8. XGBoost**<br>
 
-After tuning hyperparameters with GridsearchCV, our best model achieves a test score within the top 5% of the Kaggle leaderboard. For additional details and background information related to this dataset, see the Kaggle competition page at [https://www.kaggle.com/c/bike-sharing-demand/overview](https://www.kaggle.com/c/bike-sharing-demand/overview).
+After tuning hyperparameters with GridsearchCV, our best model achieves a test score within the **top 5%** of the Kaggle leaderboard. For additional details and background information related to this dataset, see the Kaggle competition page at [https://www.kaggle.com/c/bike-sharing-demand/overview](https://www.kaggle.com/c/bike-sharing-demand/overview).
